@@ -1,6 +1,6 @@
 # 🏦 U.S. Bank Distribution Dashboard – Power BI Project
 
-An interactive Power BI dashboard analyzing the distribution and trends of registered banks across the United States. Built using public data from [FinancialData.gov](https://financialdata.gov).
+An interactive Power BI dashboard analyzing the distribution and trends of registered banks across the United States. Built using public data from [FinancialData.gov](https://www.fdic.gov/system/files/2024-07/banklist.csv).
 
 ## 📊 Project Overview
 
@@ -25,7 +25,7 @@ This dashboard provides insights into:
 
 ## 📁 Dataset
 
-- **Source**: [FinancialData.gov](https://financialdata.gov)
+- **Source**: [FinancialData.gov](https://www.fdic.gov/system/files/2024-07/banklist.csv)
 - Fields: Bank Name, State, City, Month, Year
 
 ## 🔗 Live Dashboard
@@ -34,5 +34,5 @@ This dashboard provides insights into:
 
 ---
 
-**Author**: [Your Name]  
+**Author**: [Vinay Palakurthy]  
 **License**: MIT  
