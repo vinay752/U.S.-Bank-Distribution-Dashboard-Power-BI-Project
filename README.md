@@ -1,8 +1,11 @@
-# 🏦 U.S. Bank Distribution Dashboard – Power BI Project
+# Power BI Dashboard: Analysis of U.S. Bank Failures
 
 An interactive Power BI dashboard analyzing the distribution and trends of registered banks across the United States. Built using public data from [here](https://www.fdic.gov/system/files/2024-07/banklist.csv).
 
 ## 📊 Project Overview
+This project features an interactive Power BI dashboard that visualizes and analyzes data on failed banking institutions in the United States, based on the public FDIC bank list.
+
+The primary goal is to identify geographic and temporal trends in bank failures, with a clear focus on the impact of the 2008 financial crisis.
 
 This dashboard provides insights into:
 - 📍 Bank counts by **U.S. state**
