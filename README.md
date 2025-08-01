@@ -30,7 +30,7 @@ This dashboard provides insights into:
 
 ## 🔗 Live Dashboard
 
-👉 [View Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2f543992-f353-41d8-b0a7-eef4dbc9b1b1&autoAuth=true&ctid=6cd62ac0-b184-4743-b894-d4429e18022d)
+👉 [View Power BI Report](https://app.powerbi.com/reportEmbed?reportId=2f543992-f353-41d8-b0a7-eef4dbc9b1b1&autoAuth=true&ctid=6cd62ac0-b184-4743-b894-d4429e18022d&actionBarEnabled=true&reportCopilotInEmbed=true)
 
 ---
 
